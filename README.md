@@ -15,5 +15,4 @@ layout: list-content.html
     description: The UiMgr Feature Type allows you to manage a miscellaneous set of UI configurations, like Clipboard behavior.
 
 ---
-
 # aqdim
